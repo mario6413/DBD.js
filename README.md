@@ -62,7 +62,4 @@ bot.status({
 })
 ```
 
-
-[Documentation](https://docs.google.com/document/d/1R8IPG1xEawQ6kuoRmKbAFlwu1QSr-YgWVtxWm7UoA4w/edit?usp=drivesdk)
-
 [Support Server](https://discord.io/dbdjs)
